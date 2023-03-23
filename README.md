@@ -12,7 +12,7 @@
 
 # Codigo
 
-> 🟢Versão estavel
+> 🟢Versão estável
 
 ```lua
 PerformHttpRequest("PASTEBIN COM A VERSÃO DO SCRIPT",function(err, data)
